@@ -1,0 +1,2 @@
+# MultiParamNotepad
+可基于URL参数区分的的纯前端临时记事本
