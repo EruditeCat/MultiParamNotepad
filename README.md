@@ -50,8 +50,8 @@
 部署后使用示例：
 
 ```
-https://<用户名>.github.io/OnlineNote/?todo      # 待办
-https://<用户名>.github.io/OnlineNote/?日记       # 中文也可以
+https://<用户名>.github.io/<仓库名>v/?todo      # 待办
+https://<用户名>.github.io/<仓库名>/?日记       # 中文也可以
 ```
 
 ## 技术栈
